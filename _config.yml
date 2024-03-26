@@ -20,7 +20,7 @@ source-code: https://github.com/thecdil/oral-history-as-data
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Oral History (as) Data
+title: CLIR-DHC Advisory Board Interview Transcripts
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Analyze and publish coded oral history and qualitative interviews
 # description appears in meta tags and other locations
@@ -40,10 +40,10 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Center for Digital Inquiry and Learning, University of Idaho Library"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/images/cdil-blacktransparent-logo.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-name: "Center for Digital Inquiry and Learning, University of Idaho Library"
+# organization-link: https://cdil.lib.uidaho.edu/
+# organization-logo-banner: https://cdil.lib.uidaho.edu/images/cdil-blacktransparent-logo.png
+# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 
 
